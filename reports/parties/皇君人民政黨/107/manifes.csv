@@ -1,0 +1,5 @@
+﻿name,schema,description
+incomes.csv,schema_incomes.csv,皇君人民政黨－收入明細
+expenditures.csv,schema_expenditures.csv,皇君人民政黨－支出明細
+political party_incomes and expenditures.csv,schema_political party_incomes and expenditures.csv,皇君人民政黨－收支結算表
+political party_balance.csv,schema_political party_balance.csv,皇君人民政黨－平衡表

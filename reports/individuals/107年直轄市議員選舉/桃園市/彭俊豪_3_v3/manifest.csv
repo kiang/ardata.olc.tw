@@ -1,0 +1,4 @@
+﻿name,schema,description
+incomes.csv,schema_incomes.csv,107年直轄市議員選舉－彭俊豪擬參選人第 2 次賸餘收入明細
+expenditures.csv,schema_expenditures.csv,107年直轄市議員選舉－彭俊豪擬參選人第 2 次賸餘支出明細
+person_incomes and expenditures_remain.csv,schema_person_incomes and expenditures_remain.csv,107年直轄市議員選舉－彭俊豪擬參選人第 2 次賸餘收支結算表

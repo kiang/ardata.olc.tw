@@ -1,0 +1,12 @@
+# Deployment artifacts
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Large CSV files (if any exceed 50MB)
+# Uncomment if needed:
+# *.csv
+
+# Processing artifacts
+processing_summary.json

@@ -1,0 +1,4 @@
+﻿name,schema,description
+incomes.csv,schema_incomes.csv,107年鄉(鎮、市)長選舉－陳新輝擬參選人首次申報收入明細
+expenditures.csv,schema_expenditures.csv,107年鄉(鎮、市)長選舉－陳新輝擬參選人首次申報支出明細
+person_incomes and expenditures_first.csv,schema_person_incomes and expenditures_first.csv,107年鄉(鎮、市)長選舉－陳新輝擬參選人首次申報收支結算表

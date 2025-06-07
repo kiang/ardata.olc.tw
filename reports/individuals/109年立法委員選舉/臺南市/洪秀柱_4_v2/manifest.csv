@@ -1,0 +1,4 @@
+﻿name,schema,description
+incomes.csv,schema_incomes.csv,109年立法委員選舉－洪秀柱擬參選人第 3 次賸餘收入明細
+expenditures.csv,schema_expenditures.csv,109年立法委員選舉－洪秀柱擬參選人第 3 次賸餘支出明細
+person_incomes and expenditures_remain.csv,schema_person_incomes and expenditures_remain.csv,109年立法委員選舉－洪秀柱擬參選人第 3 次賸餘收支結算表

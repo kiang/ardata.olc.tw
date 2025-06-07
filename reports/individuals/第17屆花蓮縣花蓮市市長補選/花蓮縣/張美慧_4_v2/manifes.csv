@@ -1,0 +1,4 @@
+﻿name,schema,description
+incomes.csv,schema_incomes.csv,第17屆花蓮縣花蓮市市長補選－張美慧擬參選人第 3 次賸餘收入明細
+expenditures.csv,schema_expenditures.csv,第17屆花蓮縣花蓮市市長補選－張美慧擬參選人第 3 次賸餘支出明細
+person_incomes and expenditures_remain.csv,schema_person_incomes and expenditures_remain.csv,第17屆花蓮縣花蓮市市長補選－張美慧擬參選人第 3 次賸餘收支結算表

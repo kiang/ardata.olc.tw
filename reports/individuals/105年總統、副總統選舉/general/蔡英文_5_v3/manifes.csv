@@ -1,0 +1,4 @@
+﻿name,schema,description
+incomes.csv,schema_incomes.csv,105年總統、副總統選舉－蔡英文擬參選人第 4 次賸餘收入明細
+expenditures.csv,schema_expenditures.csv,105年總統、副總統選舉－蔡英文擬參選人第 4 次賸餘支出明細
+person_incomes and expenditures_remain.csv,schema_person_incomes and expenditures_remain.csv,105年總統、副總統選舉－蔡英文擬參選人第 4 次賸餘收支結算表

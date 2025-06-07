@@ -1,0 +1,16 @@
+{
+  "adsense": {
+    "publisher_id": "ca-pub-5571465503362954",
+    "enabled": true,
+    "ad_slots": {
+      "header": "auto",
+      "sidebar": "auto",
+      "footer": "auto"
+    }
+  },
+  "site": {
+    "title": "政治獻金帳目報告書",
+    "description": "台灣政治獻金管理委員會帳目報告資料",
+    "author": "政治獻金管理委員會"
+  }
+}
