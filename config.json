@@ -1,16 +1,42 @@
 {
-  "adsense": {
-    "publisher_id": "ca-pub-5571465503362954",
-    "enabled": true,
-    "ad_slots": {
-      "header": "auto",
-      "sidebar": "auto",
-      "footer": "auto"
-    }
+  "paths": {
+    "data_root": "/home/kiang/public_html/ardata.cy.gov.tw/data",
+    "output_root": "/home/kiang/public_html/ardata.olc.tw",
+    "public_subdir": "public",
+    "parties_subpath": "parties/account",
+    "individuals_subpath": "individual/account"
+  },
+  "limits": {
+    "table_display_rows": 2000,
+    "test_mode_parties": 5,
+    "test_mode_files_per_party": 2,
+    "github_max_file_size": 104857600,
+    "github_large_file_threshold": 52428800,
+    "github_max_repo_size": 1073741824
+  },
+  "repository": {
+    "github_repo": "git@github.com:kiang/ardata.olc.tw.git",
+    "github_pages_url": "https://kiang.github.io/ardata.olc.tw/",
+    "main_site_url": "https://ardata.olc.tw/"
   },
   "site": {
-    "title": "政治獻金帳目報告書",
-    "description": "台灣政治獻金管理委員會帳目報告資料",
-    "author": "政治獻金管理委員會"
+    "title": "政治獻金會計報告書",
+    "description": "台灣政治獻金管理委員會會計報告資料",
+    "author": "監察院",
+    "footer_attribution": "北中西區台南市議員參選人江明宗 製作",
+    "data_source_url": "https://ardata.cy.gov.tw/",
+    "author_url": "https://facebook.com/k.olc.tw/"
+  },
+  "processing": {
+    "currency_columns": [9, 10],
+    "version_suffixes": ["_v2", "_v3", "_v4", "_v5", "_v6"],
+    "manifest_variations": ["manifest.csv", "manifes.csv"],
+    "encoding_list": ["utf-8", "utf-8-sig", "big5", "cp950", "gb18030"],
+    "encoding_confidence_threshold": 0.7,
+    "encoding_buffer_size": 10000
+  },
+  "adsense": {
+    "publisher_id": "ca-pub-5571465503362954",
+    "enabled": true
   }
 }
